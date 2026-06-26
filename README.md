@@ -2,11 +2,11 @@
 
 # Ahmed Emad Hayder 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Data+Scientist;AI+Engineer;Computer+Vision+Developer;Machine+Learning+Enthusiast;Django+Developer;Building+AI-Powered+Healthcare+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Data+Scientist;AI+Engineer;Django+Developer;Computer+Vision+Developer;Machine+Learning+Enthusiast;Building+AI-Powered+Healthcare+Solutions" />
 
-### Data Scientist | AI Engineer | Computer Vision Enthusiast
+### Data Scientist | AI Engineer | Django Developer | Computer Vision Enthusiast
 
-Building intelligent systems with Machine Learning, Deep Learning, Computer Vision, and Modern Web Technologies.
+Building AI-powered healthcare solutions, machine learning systems, computer vision applications, and scalable web applications.
 
 </div>
 
@@ -15,24 +15,25 @@ Building intelligent systems with Machine Learning, Deep Learning, Computer Visi
 ## 🚀 About Me
 
 * 🎓 Computer Science Graduate
-* 🤖 Passionate about Artificial Intelligence and Data Science
+* 🤖 Data Scientist & AI Engineer
+* 🌐 Django Developer with experience in full-stack web development
 * 👁️ Specialized in Computer Vision and Predictive Analytics
-* 🌐 Experienced in Django and Full-Stack Development
 * 📱 Flutter Mobile Application Developer
-* 🏥 Interested in AI-powered Healthcare Solutions
-* 📊 Transforming data into actionable insights
+* 🏥 Building AI-powered Healthcare Solutions
+* 📊 Passionate about Data Science, Machine Learning, and Software Engineering
+* 🚀 Continuously learning and exploring emerging technologies
 
 ---
 
-## 🛠️ Languages
+## 🛠️ Programming Languages
 
-<p>
+<p align="left">
 Python • Java • SQL • Dart • JavaScript • HTML • CSS
 </p>
 
 ---
 
-## ⚡ AI & Data Science
+## 🤖 AI & Data Science
 
 * Machine Learning
 * Deep Learning
@@ -45,19 +46,22 @@ Python • Java • SQL • Dart • JavaScript • HTML • CSS
 * Classification Models
 * Healthcare AI
 * Retrieval-Augmented Generation (RAG)
+* Large Language Models (LLMs)
 
 ---
 
 ## 💻 Development
 
 * Django
+* Django REST Framework
 * Spring Boot
 * Flutter
 * REST APIs
 * Git & GitHub
 * Docker
-* Object-Oriented Programming
+* Object-Oriented Programming (OOP)
 * Software Engineering
+* Full-Stack Web Development
 
 ---
 
@@ -82,38 +86,37 @@ Python • Java • SQL • Dart • JavaScript • HTML • CSS
 * Maven
 * Postman
 * Jupyter Notebook
+* VS Code
+* IntelliJ IDEA
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🏥 Raey
+### 🏥 Raey – Smart Elderly Care Platform
 
-AI-powered healthcare platform designed to support elderly care and medical monitoring.
+An AI-powered healthcare platform designed to support elderly care through medical monitoring, predictive analytics, mobile applications, and intelligent healthcare assistance.
 
-### 💬 Simple Chatbot RAG System
+### 💬 RAG Chatbot System
 
-Retrieval-Augmented Generation system built using Java and modern AI technologies.
-
-### 🌾 Rice Image Classifier
-
-Computer Vision model for rice image classification using Deep Learning techniques.
-
-### 🎗️ Cancer Prediction Analytics Model
-
-Machine Learning model for cancer prediction and healthcare analytics.
+A Retrieval-Augmented Generation (RAG) system developed using Java, LangChain4j, vector databases, and modern AI technologies to provide context-aware responses.
 
 ### 🛒 Online Electronic Web Store
 
-Full-stack e-commerce web application.
+A full-stack e-commerce platform built with Django featuring authentication, product management, shopping cart functionality, and order processing.
+
+### 🌾 Rice Image Classifier
+
+A Computer Vision and Deep Learning project for automated rice image classification and agricultural data analysis.
+
+### 🎗️ Cancer Prediction Analytics Model
+
+A Machine Learning project focused on cancer prediction and healthcare analytics using real-world datasets and predictive modeling techniques.
 
 ### 🏨 Hotel Management System
 
-Java-based hotel management system implementing OOP concepts and database integration.
+A Java-based hotel management application implementing Object-Oriented Programming concepts, database integration, and software engineering practices.
 
-### 📱 Flutter Tasks
-
-Collection of Flutter applications and mobile development experiments.
 
 ---
 
@@ -123,6 +126,7 @@ Collection of Flutter applications and mobile development experiments.
 * Retrieval-Augmented Generation (RAG)
 * Computer Vision Applications
 * Healthcare AI Systems
+* Django Web Development
 * Machine Learning Deployment
 * Data Engineering & Analytics
 
@@ -134,6 +138,6 @@ Collection of Flutter applications and mobile development experiments.
 
 💼 LinkedIn: [www.linkedin.com/in/ahmed-hayder](http://www.linkedin.com/in/ahmed-hayder)
 
-🌍 Organization: @RaeyHub
+🌍 GitHub Organization: @RaeyHub
 
 </div>
